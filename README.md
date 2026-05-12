@@ -1,6 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
-### NAME: KANIYAMUDHAN V
-### REG NO: 212224040148
+### NAME: HARESH R
+### REG NO: 212224040097
 ### DATE: 11-05-2026
 ## Aim:
 
@@ -71,7 +71,7 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 
 
 ## Output:
-<img width="1522" height="886" alt="image" src="https://github.com/user-attachments/assets/e8ba7aa0-c1b3-49f1-a7ff-9c28e201f65a" />
+<img width="1919" height="1081" alt="Screenshot 2026-05-12 141826" src="https://github.com/user-attachments/assets/e8717829-df08-404f-9db4-6e2c16764d67" />
 
 
 
